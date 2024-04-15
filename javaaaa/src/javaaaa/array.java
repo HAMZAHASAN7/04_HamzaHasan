@@ -27,7 +27,7 @@ public class array {
             }
         }
 
-        scanner.close();
+        scanner.close();																							
         System.out.println("Data stored in the array:");
         for (int i = 0; i < array.length; i++) {
             for (int j = 0; j < array[i].length; j++) {
